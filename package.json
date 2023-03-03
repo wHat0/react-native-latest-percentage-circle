@@ -1,5 +1,5 @@
 {
-  "name": "react-native-percentage-circle",
+  "name": "react-native-latest-percentage-circle",
   "version": "1.0.7",
   "description": "react native percentage circle and also be a progress bar",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JackPu/react-native-percentage-circle.git"
+    "url": "git+https://github.com/wHat0/react-native-latest-percentage-circle.git"
   },
   "keywords": [
     "percentage",
@@ -19,9 +19,9 @@
   "author": "jack pu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JackPu/react-native-percentage-circle/issues"
+    "url": "https://github.com/wHat0/react-native-latest-percentage-circle/issues"
   },
-  "homepage": "https://github.com/JackPu/react-native-percentage-circle#readme",
+  "homepage": "https://github.com/wHat0/react-native-latest-percentage-circle#readme",
   "dependencies": {
     "react": "^16.3.2"
   },
