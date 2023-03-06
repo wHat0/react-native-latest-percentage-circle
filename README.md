@@ -19,13 +19,13 @@ React-Native-Percentage-Cirlce is a component which supports you define your per
 ### Start 
 
 ``` bash
-npm i react-native-percentage-circle --save
+npm i react-native-latest-percentage-circle --save
 
 ```
 
 ``` js
 
-import PercentageCircle from 'react-native-percentage-circle';
+import PercentageCircle from 'react-native-latest-percentage-circle';
 
 //...
 
