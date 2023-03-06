@@ -1,4 +1,4 @@
-# react-native-percentage-circle
+# react-native-latest-percentage-circle
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
 [![npm](https://img.shields.io/npm/v/react-native-percentage-circle.svg?maxAge=2592000)]()
 
