@@ -1,9 +1,3 @@
-/** React Native Percentage Circle
- ** @github  https://github.com/JackPu/react-native-percentage-circle
- ** React Native Version >=0.25
- ** to fixed react native version
- **/
-
 import React, { Component } from "react";
 import { StyleSheet, View, Text } from "react-native";
 import PropTypes from "prop-types"; // add this for using it with latest RN versions
